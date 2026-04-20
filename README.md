@@ -150,8 +150,7 @@ Android Runtime + Native Libraries
 Linux Kernel
     ↓
 Hardware
-
-
+```
 ## Screenshot
 
 <img width="1765" height="1368" alt="photo1" src="https://github.com/user-attachments/assets/c4db8fa5-8de3-402b-96e0-0143ac996d02" />
