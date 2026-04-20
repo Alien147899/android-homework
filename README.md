@@ -150,3 +150,6 @@ Android Runtime + Native Libraries
 Linux Kernel
     ↓
 Hardware
+
+
+![screenshot](images/photo1.png)
