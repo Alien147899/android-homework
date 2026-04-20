@@ -152,4 +152,6 @@ Linux Kernel
 Hardware
 
 
-![screenshot](images/photo1.png)
+## Screenshot
+
+![Emulator Screenshot](images/photo1.png)
