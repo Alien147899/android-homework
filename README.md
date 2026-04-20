@@ -88,17 +88,6 @@ Main idea:
 - It provides core Java/Kotlin class libraries.
 - It manages memory and runtime behavior.
 
-#### Native Libraries
-These are low-level libraries mostly written in C or C++.
-
-Examples:
-- SQLite
-- OpenGL ES
-- WebKit
-- Media framework
-- SSL
-- libc
-
 Main idea:
 - These libraries provide important functions such as graphics, database, media playback, and web rendering.
 - Higher layers can call these libraries when needed.
